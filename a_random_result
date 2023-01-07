@@ -1,0 +1,13 @@
+Hello, to create a new C file simply type the fie name:
+mycprogram.c
+The C file is being processed, please wait
+The C file is ready
+Do you wish to compile it write Y or N
+Y
+compiling the file... 
+Compilation complete
+Enter first number: 15
+Enter second number: 27
+
+After swapping, first number = 27.00
+After swappig, second number = 15.00[p2019014@2019014 ~]$ exit
